@@ -8,6 +8,7 @@
  * 
  */
 public with sharing class GCAI_Error {
+	//test
 	public class Error {
 		@AuraEnabled public String message;
 		@AuraEnabled public String type;
